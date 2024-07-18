@@ -1,0 +1,19 @@
+---
+title: "Citation"
+output: 
+  pdf_document: 
+    toc: true
+    number_sections: true
+date: "2024-07-18"
+bibliography: references.bib
+---
+
+# 
+
+Raja is a good boy. [@agarwal2014]
+
+hello everyone. [@dixit2009]
+
+All is well [@lewin2014]
+
+# Reference
